@@ -1,7 +1,7 @@
-
+![logo](https://github.com/msalidanalyst/msalidanalyst/blob/main/Github_Banner.png)
 <h1 align="center">Hi 👋, I'm Md Sowrov Ali</h1>
 <h3 align="center">A Data Analyst from Bangladesh</h3> <br>
-<img align="right" alt="data analytics" width="600" src="https://miro.medium.com/v2/resize:fit:679/0*tD5kEC2JYcKHH0zO.gif">
+<img align="right" alt="data analytics" width="500" src="https://miro.medium.com/v2/resize:fit:679/0*tD5kEC2JYcKHH0zO.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msalidanalyst&label=Profile%20views&color=0e75b6&style=flat" alt="msalidanalyst" /> </p>
 
